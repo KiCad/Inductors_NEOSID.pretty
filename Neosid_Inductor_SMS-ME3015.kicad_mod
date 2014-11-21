@@ -9,8 +9,8 @@
   (fp_text value Neosid_Inductor_SMS-ME3015_RevA_21Apr2012 (at -0.35052 3.64998) (layer F.SilkS) hide
     (effects (font (thickness 0.3048)))
   )
-  (fp_line (start 1.50114 1.80086) (end -1.50114 1.80086) (layer F.SilkS) (width 0.381))
-  (fp_line (start 1.50114 -1.80086) (end -1.50114 -1.80086) (layer F.SilkS) (width 0.381))
+  (fp_line (start 1.50114 1.80086) (end -1.50114 1.80086) (layer F.SilkS) (width 0.15))
+  (fp_line (start 1.50114 -1.80086) (end -1.50114 -1.80086) (layer F.SilkS) (width 0.15))
   (pad 1 smd rect (at -1.09982 0) (size 1.00076 2.70002) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.09982 0) (size 1.00076 2.70002) (layers F.Cu F.Paste F.Mask))
 )
