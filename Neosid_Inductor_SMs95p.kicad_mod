@@ -1,13 +1,13 @@
-(module Neosid_Inductor_SMs95p_RevA_21Apr2012 (layer F.Cu)
+(module Neosid_Inductor_SMs95p (layer F.Cu)
   (at 0 0)
   (descr "Neosid, Inductor, SMs95p, Festinduktivitaet, SMD, magnetically shielded,")
   (tags "Neosid, Inductor, SMs95p, Festinduktivitaet, SMD, magnetically shielded,")
   (attr smd)
-  (fp_text reference L (at 0 -7.50062) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Neosid_Inductor_SMs95p (at 0 -7.50062) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Neosid_Inductor_SMs95p_RevA_21Apr2012 (at 0.0508 7.39902) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0.0508 7.39902) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 7.50062 -2.99974) (end 4.0005 -5.99948) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.0005 -5.99948) (end -4.0005 -5.99948) (layer F.SilkS) (width 0.15))

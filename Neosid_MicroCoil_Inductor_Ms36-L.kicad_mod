@@ -1,13 +1,13 @@
-(module Neosid_MicroCoil_Inductor_Ms36-L_RevA_21Apr2012 (layer F.Cu)
+(module Neosid_MicroCoil_Inductor_Ms36-L (layer F.Cu)
   (at 0 0)
   (descr "Neosid, Micro Coil, Inductor, Ms36-L, SMD, Festinduktivitaet, anti clockwise,")
   (tags "Neosid, Micro Coil, Inductor, Ms36-L, SMD, Festinduktivitaet, anti clockwise,")
   (attr smd)
-  (fp_text reference L (at 0.14986 -4.0005) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Neosid_MicroCoil_Inductor_Ms36-L (at 0.14986 -4.0005) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Neosid_MicroCoil_Inductor_Ms36-L_RevA_21Apr2012 (at -0.09906 4.0005) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at -0.09906 4.0005) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4.0005 1.99898) (end -4.0005 1.99898) (layer F.SilkS) (width 0.15))
   (fp_line (start 4.0005 -1.99898) (end -4.0005 -1.99898) (layer F.SilkS) (width 0.15))

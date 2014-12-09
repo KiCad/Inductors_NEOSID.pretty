@@ -1,13 +1,13 @@
-(module Neosid_Inductor_Ms85_RevA_21Apr2012 (layer F.Cu)
+(module Neosid_Inductor_Ms85 (layer F.Cu)
   (at 0 0)
   (descr "Neosid, Ms85, Ms85T, SMD Inductor, Festinduktivitaet, SMD,")
   (tags "Neosid, Ms85, Ms85T, SMD Inductor, Festinduktivitaet, SMD,")
   (attr smd)
-  (fp_text reference L (at 0 -5.75056) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Neosid_Inductor_Ms85 (at 0 -5.75056) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Neosid_Inductor_Ms85_RevA_21Apr2012 (at 0 6.25094) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0 6.25094) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -4.24942 2.75082) (end -2.75082 2.75082) (layer F.SilkS) (width 0.15))
   (fp_line (start -2.75082 2.75082) (end -2.75082 4.0005) (layer F.SilkS) (width 0.15))

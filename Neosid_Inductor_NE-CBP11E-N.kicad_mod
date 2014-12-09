@@ -1,12 +1,12 @@
-(module Neosid_Inductor_NE-CBP11E-N_RevA_21Apr2012 (layer F.Cu)
+(module Neosid_Inductor_NE-CBP11E-N (layer F.Cu)
   (at 0 0)
   (descr "Neosid, Inductor, NE-CBP11E-N, Festinduktivitaet, Through hole,")
   (tags "Neosid, Inductor, NE-CBP11E-N, Festinduktivitaet, Through hole,")
-  (fp_text reference L (at 0 -7.00024) (layer F.SilkS)
-    (effects (font (thickness 0.3048)))
+  (fp_text reference Neosid_Inductor_NE-CBP11E-N (at 0 -7.00024) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Neosid_Inductor_NE-CBP11E-N_RevA_21Apr2012 (at 0.50038 8.49884) (layer F.SilkS) hide
-    (effects (font (thickness 0.3048)))
+  (fp_text value VAL** (at 0.50038 8.49884) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5.4991 -5.4991) (end 5.4991 -5.4991) (layer F.SilkS) (width 0.15))
   (fp_line (start 5.4991 -5.4991) (end 5.4991 5.4991) (layer F.SilkS) (width 0.15))
