@@ -3,10 +3,10 @@
   (descr "Neosid, Inductor, PIC0512H, Power Inductor, Festinduktivitaet, SMD,")
   (tags "Neosid, Inductor, PIC0512H, Power Inductor, Festinduktivitaet, SMD,")
   (attr smd)
-  (fp_text reference Neosid_Inductor_SM-PIC0512H (at 0 -4.20116) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -4.20116) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 5.10032) (layer F.SilkS) hide
+  (fp_text value Neosid_Inductor_SM-PIC0512H (at 0 5.10032) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.0988 1.80086) (end 3.0988 2.70002) (layer F.SilkS) (width 0.15))

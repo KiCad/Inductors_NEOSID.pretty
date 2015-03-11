@@ -3,10 +3,10 @@
   (descr "Neosid,Inductor,Ms95, Ms95a, Ms95T, Festinduktivitaet, SMD,")
   (tags "Neosid,Inductor,Ms95, Ms95a, Ms95T, Festinduktivitaet, SMD,")
   (attr smd)
-  (fp_text reference Neosid_Inductor_Ms95 (at 0 -7.2009) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -7.2009) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0.20066 7.39902) (layer F.SilkS) hide
+  (fp_text value Neosid_Inductor_Ms95 (at 0.20066 7.39902) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 4.699 2.79908) (end 2.79908 4.699) (layer F.SilkS) (width 0.15))

@@ -3,10 +3,10 @@
   (descr "Neosid, Inductor, SM-NE56, SMD2220, Festinduktivitaet, SMD,")
   (tags "Neosid, Inductor, SM-NE56, SMD2220, Festinduktivitaet, SMD,")
   (attr smd)
-  (fp_text reference Neosid_Inductor_SM-NE56_SMD2220 (at 0.09906 -3.85064) (layer F.SilkS)
+  (fp_text reference REF** (at 0.09906 -3.85064) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 4.20116) (layer F.SilkS) hide
+  (fp_text value Neosid_Inductor_SM-NE56_SMD2220 (at 0 4.20116) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 1.39954 2.49936) (end -1.39954 2.49936) (layer F.SilkS) (width 0.15))

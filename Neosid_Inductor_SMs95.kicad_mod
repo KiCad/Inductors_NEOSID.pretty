@@ -3,10 +3,10 @@
   (descr "Neosid, Inductor, SMs95, Festinduktivitaet, SMD, magnetically shielded,")
   (tags "Neosid, Inductor, SMs95, Festinduktivitaet, SMD, magnetically shielded,")
   (attr smd)
-  (fp_text reference Neosid_Inductor_SMs95 (at 0 -7.50062) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -7.50062) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0.0508 7.39902) (layer F.SilkS) hide
+  (fp_text value Neosid_Inductor_SMs95 (at 0.0508 7.39902) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 7.50062 -2.99974) (end 4.0005 -5.99948) (layer F.SilkS) (width 0.15))

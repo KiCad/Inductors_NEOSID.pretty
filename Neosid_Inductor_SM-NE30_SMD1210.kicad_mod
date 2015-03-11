@@ -3,10 +3,10 @@
   (descr "Neosid, Inductor, SM-NE30, SMD1210, Festinduktivitaet, SMD,")
   (tags "Neosid, Inductor, SM-NE30, SMD1210, Festinduktivitaet, SMD,")
   (attr smd)
-  (fp_text reference Neosid_Inductor_SM-NE30_SMD1210 (at -0.20066 -3.2004) (layer F.SilkS)
+  (fp_text reference REF** (at -0.20066 -3.2004) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 3.2004) (layer F.SilkS) hide
+  (fp_text value Neosid_Inductor_SM-NE30_SMD1210 (at 0 3.2004) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0.50038 1.30048) (end -0.50038 1.30048) (layer F.SilkS) (width 0.15))

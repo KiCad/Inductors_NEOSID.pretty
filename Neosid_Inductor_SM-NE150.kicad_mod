@@ -3,10 +3,10 @@
   (descr "Neosid, Inductor, SM-NE150, Festinduktivitaet, SMD,")
   (tags "Neosid, Inductor, SM-NE150, Festinduktivitaet, SMD,")
   (attr smd)
-  (fp_text reference Neosid_Inductor_SM-NE150 (at -0.0508 -8.95096) (layer F.SilkS)
+  (fp_text reference REF** (at -0.0508 -8.95096) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at -0.09906 10.05078) (layer F.SilkS) hide
+  (fp_text value Neosid_Inductor_SM-NE150 (at -0.09906 10.05078) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5.95122 -2.14884) (end -5.6007 -2.99974) (layer F.SilkS) (width 0.15))
